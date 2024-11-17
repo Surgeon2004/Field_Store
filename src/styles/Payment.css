@@ -1,0 +1,30 @@
+/* src/components/Payment.css */
+.payment-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .payment-details {
+    margin-bottom: 20px;
+  }
+  
+  .pay-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .payment-status {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    color: green;
+  }
+  
+  .error {
+    color: red;
+    font-size: 16px;
+  }
